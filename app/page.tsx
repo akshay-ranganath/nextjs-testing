@@ -24,6 +24,12 @@ export default function Home() {
               height={24}
               priority
             />
+            <Image
+            src="https://cdn.pixabay.com/photo/2023/08/08/18/01/butterfly-8177925_1280.jpg"
+            width={100}
+            height={50}
+            alt='test image'
+            ></Image>
           </a>
         </div>
       </div>
