@@ -30,6 +30,10 @@ export default function Home() {
             height="500"
             alt='test image'
             />
+            <img src="https://cdn.pixabay.com/photo/2023/08/06/10/01/bird-8172597_1280.jpg"
+            width="500"
+            height="500"
+            alt="yet another image"/>
           </a>
         </div>
       </div>
